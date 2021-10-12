@@ -8,8 +8,6 @@ Many __thanks to the organizers from Driven Data and Microsoft AI for Earth__ fo
 
 If this solution seemed useful to you, be sure to share ⭐️
 
-Also you can join my telegram channel __Data Science by Daniil Stepanov__: https://t.me/DSbyDS
-
 (the channel is in Russian, but we can discuss something in English)
 
 

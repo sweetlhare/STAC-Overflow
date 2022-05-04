@@ -8,6 +8,7 @@ Many __thanks to the organizers from Driven Data and Microsoft AI for Earth__ fo
 
 If this solution seemed useful to you, be sure to share ⭐️
 
+https://t.me/hahatons
 (the channel is in Russian, but we can discuss something in English)
 
 
